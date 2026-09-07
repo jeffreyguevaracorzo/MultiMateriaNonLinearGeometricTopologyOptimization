@@ -1,0 +1,4 @@
+#                     Distributed Loads                    #
+1
+# |  N1  |  N2  | ... |  Nn  |  SX  |  SY  | Sz (only3D) | #
+1  2    0   0
